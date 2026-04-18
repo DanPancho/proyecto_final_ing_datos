@@ -27,7 +27,7 @@ class FileArrivalHandler(FileSystemEventHandler):
 
         print(f"Archivo detectado: {file_path}")
 
-        # pequeña espera para evitar leer archivo a medio copiar
+        
         time.sleep(3)
 
         try:
