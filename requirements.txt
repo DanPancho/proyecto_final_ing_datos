@@ -1,0 +1,5 @@
+pandas
+kafka-python
+psycopg2-binary
+sqlalchemy
+watchdog
